@@ -1,8 +1,9 @@
 # relative-readme.md
 
-## Application 1a
+## Application 1
 
 [Documentation](application1/README.md)
 
+## Application 2
 
-asd
+[Documentation](application2/README.md)
